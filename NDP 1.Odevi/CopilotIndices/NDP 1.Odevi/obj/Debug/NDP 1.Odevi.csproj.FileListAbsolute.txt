@@ -1,0 +1,20 @@
+C:\Users\Dell\OneDrive\Desktop\Wındos form\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP 1.Odevi.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Wındos form\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP_1.Odevi.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\Wındos form\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP_1.Odevi.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\Wındos form\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP 1.Odevi.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\Wındos form\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP 1.Odevi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Wındos form\NDP 1.Odevi\NDP 1.Odevi\bin\Debug\NDP 1.Odevi.exe.config
+C:\Users\Dell\OneDrive\Desktop\Wındos form\NDP 1.Odevi\NDP 1.Odevi\bin\Debug\NDP 1.Odevi.exe
+C:\Users\Dell\OneDrive\Desktop\Wındos form\NDP 1.Odevi\NDP 1.Odevi\bin\Debug\NDP 1.Odevi.pdb
+C:\Users\Dell\OneDrive\Desktop\Wındos form\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP 1.Odevi.exe
+C:\Users\Dell\OneDrive\Desktop\Wındos form\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP 1.Odevi.pdb
+C:\Users\Dell\OneDrive\Desktop\ملفات\NDP 1.Odevi\NDP 1.Odevi\bin\Debug\NDP 1.Odevi.exe.config
+C:\Users\Dell\OneDrive\Desktop\ملفات\NDP 1.Odevi\NDP 1.Odevi\bin\Debug\NDP 1.Odevi.exe
+C:\Users\Dell\OneDrive\Desktop\ملفات\NDP 1.Odevi\NDP 1.Odevi\bin\Debug\NDP 1.Odevi.pdb
+C:\Users\Dell\OneDrive\Desktop\ملفات\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP 1.Odevi.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\ملفات\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP_1.Odevi.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\ملفات\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP_1.Odevi.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\ملفات\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP 1.Odevi.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\ملفات\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP 1.Odevi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\ملفات\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP 1.Odevi.exe
+C:\Users\Dell\OneDrive\Desktop\ملفات\NDP 1.Odevi\NDP 1.Odevi\obj\Debug\NDP 1.Odevi.pdb
